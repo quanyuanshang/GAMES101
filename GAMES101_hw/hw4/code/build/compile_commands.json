@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/hw4/code/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/BezierCurve.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BezierCurve.dir\\main.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\hw4\\code\\main.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/hw4/code/main.cpp",
+  "output": "CMakeFiles/BezierCurve.dir/main.cpp.obj"
+}
+]
