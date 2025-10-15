@@ -1,0 +1,3 @@
+/home/quanquna/CG/hw1/build/CMakeFiles/Rasterizer.dir
+/home/quanquna/CG/hw1/build/CMakeFiles/edit_cache.dir
+/home/quanquna/CG/hw1/build/CMakeFiles/rebuild_cache.dir
