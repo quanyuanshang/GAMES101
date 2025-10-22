@@ -1,0 +1,188 @@
+[
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glew",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC @CMakeFiles/glew.dir/includes_C.rsp -g -w -o CMakeFiles\\glew.dir\\src\\glew.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glew\\src\\glew.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glew/src/glew.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glew.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glew",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC @CMakeFiles/glew.dir/includes_C.rsp -g -w -o CMakeFiles\\glew.dir\\src\\glewinfo.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glew\\src\\glewinfo.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glew/src/glewinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/glewinfo.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glew",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC @CMakeFiles/glew.dir/includes_C.rsp -g -w -o CMakeFiles\\glew.dir\\src\\visualinfo.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glew\\src\\visualinfo.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glew/src/visualinfo.c",
+  "output": "CGL/deps/glew/CMakeFiles/glew.dir/src/visualinfo.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\context.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\init.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/init.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\input.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/input.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\monitor.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/monitor.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\window.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/window.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/win32_init.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/win32_monitor.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/win32_time.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\win32_tls.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\win32_tls.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/win32_tls.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_tls.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/win32_window.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\winmm_joystick.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\winmm_joystick.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/winmm_joystick.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/winmm_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -w -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\deps\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/deps/glfw/src/wgl_context.c",
+  "output": "CGL/deps/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\vector2D.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\vector2D.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/vector2D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector2D.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\vector3D.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\vector3D.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/vector3D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector3D.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\vector4D.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\vector4D.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/vector4D.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/vector4D.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\matrix3x3.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\matrix3x3.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/matrix3x3.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/matrix3x3.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\matrix4x4.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\matrix4x4.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/matrix4x4.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/matrix4x4.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\quaternion.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\quaternion.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/quaternion.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/quaternion.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\complex.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\complex.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/complex.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/complex.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\color.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\color.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/color.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/color.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\osdtext.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\osdtext.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/osdtext.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/osdtext.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_C.rsp -g -o CMakeFiles\\CGL.dir\\osdfont.c.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\osdfont.c",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/osdfont.c",
+  "output": "CGL/src/CMakeFiles/CGL.dir/osdfont.c.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\viewer.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\viewer.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/viewer.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/viewer.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\base64.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\base64.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/base64.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/base64.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/CGL.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -std=gnu++0x -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp -std=gnu++0x -g -o CMakeFiles\\CGL.dir\\tinyxml2.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\CGL\\src\\tinyxml2.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/CGL/src/tinyxml2.cpp",
+  "output": "CGL/src/CMakeFiles/CGL.dir/tinyxml2.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/ropesim.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -g -o CMakeFiles\\ropesim.dir\\rope.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\src\\rope.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/src/rope.cpp",
+  "output": "src/CMakeFiles/ropesim.dir/rope.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/ropesim.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -g -o CMakeFiles\\ropesim.dir\\application.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\src\\application.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/src/application.cpp",
+  "output": "src/CMakeFiles/ropesim.dir/application.cpp.obj"
+},
+{
+  "directory": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe -DGLEW_STATIC @CMakeFiles/ropesim.dir/includes_CXX.rsp  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -g -o CMakeFiles\\ropesim.dir\\main.cpp.obj -c C:\\Users\\ASUS\\Desktop\\cs\\CG\\GAMES101_hw\\assignment8\\src\\main.cpp",
+  "file": "C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/src/main.cpp",
+  "output": "src/CMakeFiles/ropesim.dir/main.cpp.obj"
+}
+]

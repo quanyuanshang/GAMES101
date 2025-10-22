@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glew/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/deps/glfw/src/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/CGL/src/cmake_install.cmake",
+		"C:/Users/ASUS/Desktop/cs/CG/GAMES101_hw/assignment8/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

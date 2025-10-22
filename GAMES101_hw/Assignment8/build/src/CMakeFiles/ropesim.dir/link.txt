@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ropesim.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ropesim.dir/objects.a @CMakeFiles\ropesim.dir\objects1.rsp
+C:\mingw64\bin\g++.exe  -std=gnu++11 -m64 -O3 -fopenmp -std=gnu++11 -g -Wl,--whole-archive CMakeFiles\ropesim.dir/objects.a -Wl,--no-whole-archive -o ..\ropesim.exe -Wl,--out-implib,..\libropesim.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ropesim.dir\linkLibs.rsp
