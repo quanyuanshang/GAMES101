@@ -1,11 +1,19 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.10)
 project(RopeSim)
-
+set(CMAKE_TOOLCHAIN_FILE "D:/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "Vcpkg toolchain file")
 #-------------------------------------------------------------------------------
 # Build options
 #-------------------------------------------------------------------------------
 option(BUILD_LIBCGL "Build with libCGL" ON)
-
+if(WIN32 AND MINGW)
+    # 手动设置GLEW路径
+    set(GLEW_INCLUDE_DIRS "D:/vcpkg/installed/x64-windows/include")
+    set(GLEW_LIBRARIES "D:/vcpkg/installed/x64-windows/lib/glew32.lib")
+    
+    # 确保CGL能找到这些变量
+    set(GLEW_INCLUDE_DIRS ${GLEW_INCLUDE_DIRS} PARENT_SCOPE)
+    set(GLEW_LIBRARIES ${GLEW_LIBRARIES} PARENT_SCOPE)
+endif()
 #-------------------------------------------------------------------------------
 # Platform-specific settings
 #-------------------------------------------------------------------------------
@@ -139,7 +147,9 @@ endif(WIN32)
 #-------------------------------------------------------------------------------
 # Find dependencies
 #-------------------------------------------------------------------------------
-
+add_definitions(-DGLEW_STATIC)
+set(FREETYPE_INCLUDE_DIRS "D:/vcpkg/installed/x64-windows/include")
+set(FREETYPE_LIBRARY "D:/vcpkg/installed/x64-windows/lib/freetype.lib")
 # Required packages
 find_package(OpenGL REQUIRED)
 find_package(Threads REQUIRED)
@@ -147,12 +157,13 @@ find_package(Freetype REQUIRED)
 
 # CGL
 if(BUILD_LIBCGL)
+  # CGL will handle GLEW internally from its deps/glew directory
   add_subdirectory(CGL)
   include_directories(CGL/include)
 else(BUILD_LIBCGL)
   find_package(CGL REQUIRED)
   find_package(GLEW REQUIRED)
-  find_package(GLFW REQUIRED)
+  find_package(glfw3 REQUIRED)
 endif(BUILD_LIBCGL)
 
 #-------------------------------------------------------------------------------

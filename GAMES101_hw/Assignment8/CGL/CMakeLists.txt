@@ -1,7 +1,7 @@
 # Original file Copyright CMU462 Fall 2015:
 # Kayvon Fatahalian, Keenan Crane,
 # Sky Gao, Bryce Summers, Michael Choquette.
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.10)
 project(CGL)
 
 #-------------------------------------------------------------------------------
@@ -185,6 +185,10 @@ find_package(PkgConfig QUIET)
 add_subdirectory("${CGL_SOURCE_DIR}/deps/glew")
 set_property( TARGET glew APPEND_STRING PROPERTY COMPILE_FLAGS -w )
 
+# Set GLEW variables for internal use
+set(GLEW_INCLUDE_DIRS "${CGL_SOURCE_DIR}/deps/glew/include")
+set(GLEW_LIBRARIES glew)
+
 # GLFW
 # if(PKGCONFIG_FOUND)
 #   pkg_search_module(GLFW QUIET glfw3)
@@ -199,6 +203,16 @@ set_property( TARGET glew APPEND_STRING PROPERTY COMPILE_FLAGS -w )
 
 add_subdirectory("${CGL_SOURCE_DIR}/deps/glfw")
 set_property( TARGET glfw APPEND_STRING PROPERTY COMPILE_FLAGS -w )
+
+# Set GLFW variables for internal use
+set(GLFW_INCLUDE_DIRS "${CGL_SOURCE_DIR}/deps/glfw/include")
+set(GLFW_LIBRARIES glfw)
+
+# Export variables to parent scope
+set(GLEW_INCLUDE_DIRS "${GLEW_INCLUDE_DIRS}" PARENT_SCOPE)
+set(GLEW_LIBRARIES "${GLEW_LIBRARIES}" PARENT_SCOPE)
+set(GLFW_INCLUDE_DIRS "${GLFW_INCLUDE_DIRS}" PARENT_SCOPE)
+set(GLFW_LIBRARIES "${GLFW_LIBRARIES}" PARENT_SCOPE)
 
 #-------------------------------------------------------------------------------
 # Set include directories
